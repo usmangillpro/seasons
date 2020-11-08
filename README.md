@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<b>This App uses geolocation service to locate the user end, and then tells the summer or winter season of the user location</b>
 
 ## Available Scripts
 
